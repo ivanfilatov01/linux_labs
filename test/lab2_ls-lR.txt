@@ -1,0 +1,11 @@
+.:
+итого 8
+drw-rwxr-x. 2 ivan ivan 4096 окт 22 02:26 dir
+-r--r-----. 1 root ivan    5 окт 22 02:19 file
+-rw-------. 1 ivan ivan    0 окт 22 02:39 file1
+-rw-rw-rw-. 1 ivan ivan    0 окт 22 02:39 file2
+-rw-rw-r--. 1 ivan ivan    0 окт 22 02:48 lab2_ls-lR.txt
+
+./dir:
+итого 4
+-rw-rw-r--. 1 ivan ivan 7 окт 22 02:26 new_file
